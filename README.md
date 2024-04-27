@@ -1,18 +1,14 @@
-# ToDoList
+-*TODOLIST*-
+ToDoList is a web application designed to assist users in managing their daily tasks. This project was created to simplify task management, making it easier to organize and monitor tasks.
 
-ToDoList è un'applicazione web che aiuta gli utenti a gestire le loro attività quotidiane. Questo progetto è stato creato per semplificare la gestione delle attività, rendendo più facile l'organizzazione e il monitoraggio dei compiti.
+-*FEATURES*-
+--Task List: Displays all tasks in an ordered list, allowing users to easily see what needs to be done.
+--Subtask Lists: Supports the creation of sublists within main tasks for more detailed task management.
+--Task Management: Allows users to mark tasks as completed, add new tasks, and modify existing ones.
+--Filters and Sorting: Offers the ability to filter tasks by status (to do, in progress, completed) and to sort the list based on various criteria.
 
-## Caratteristiche
+-*LICENSE*-
+This project is released under the MIT license. See the LICENSE file for details.
 
-- **Elenco delle attività**: Visualizza tutte le attività in un elenco ordinato, permettendo agli utenti di vedere facilmente ciò che c'è da fare.
-- **Sottoliste di attività**: Supporta la creazione di sottoliste all'interno delle attività principali, per una gestione più dettagliata dei compiti.
-- **Gestione delle attività**: Permette agli utenti di contrassegnare le attività come completate, aggiungere nuove attività e modificare quelle esistenti.
-- **Filtri e ordinamento**: Offre la possibilità di filtrare le attività per stato (da fare, in corso, completato) e di ordinare l'elenco in base a vari criteri.
-
-## Licenza
-
-Questo progetto è rilasciato sotto la licenza MIT. Vedi il file `LICENSE` per i dettagli.
-
-## Contatti
-
-Se hai domande o suggerimenti, sentiti libero di aprire un issue su GitHub.
+-*CONTACS*-
+If you have questions or suggestions, feel free to open an issue on GitHub.
