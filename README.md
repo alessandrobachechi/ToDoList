@@ -1,17 +1,34 @@
-TODOLIST
-Introduction:
-Welcome to the ToDoList project! This application is designed to help you manage your tasks efficiently. Whether you're planning a project, organizing your day, or simply keeping track of your to-dos, this tool is here to help.
+# ToDoList
 
-Features:
-Task Management: Easily add, edit, and delete tasks.
-Priority Setting: Assign priorities to your tasks to manage your time effectively.
-Deadlines: Set deadlines for your tasks to ensure they are completed on time.
-Categories: Organize your tasks into categories for better management.
-Search Functionality: Quickly find tasks using the search feature.
+## Description
 
-License:
-This project is licensed under the MIT License. See the LICENSE file for details.
+ToDoList is a web application developed with HTML5, CSS3, and JavaScript, designed to help users manage their daily tasks. This project was created as part of the learning process for JavaScript, HTML, and CSS.
 
-Contact
+
+## Features
+
+- **Intuitive User Interface**: The application offers an easy-to-use interface with a clean and modern design.
+- **Task Management**: Users can add, remove, and mark tasks as completed.
+- **Data Persistence**: Tasks are saved locally in the browser, ensuring they are not lost when the user closes the page.
+- **Responsive**: The application is optimized for mobile devices, providing a smooth user experience across all devices.
+
+
+## Installation
+
+To use ToDoList, follow these steps:
+
+1. Clone the repository to your computer:
+
 If you have any questions or suggestions, feel free to open an issue or contact the project maintainers.
+
+2. Open the `index.html` file in your browser to start using the application.
+
+
+## Contributing
+
+If you wish to contribute to this project, feel free to open a pull request or an issue. All contributions are welcome!
+
+## License
+
+This project is released under the MIT license. For more details, see the `LICENSE` file.
 
