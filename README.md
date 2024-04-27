@@ -24,10 +24,6 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 2. Open the `index.html` file in your browser to start using the application.
 
 
-## Contributing
-
-If you wish to contribute to this project, feel free to open a pull request or an issue. All contributions are welcome!
-
 ## License
 
 This project is released under the MIT license. For more details, see the `LICENSE` file.
